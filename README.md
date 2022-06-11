@@ -5,7 +5,7 @@
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL SQLite
-- 📫 <b>Languages</b> : Solidity, Rust, JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP
+- 📫 <b>Languages</b> : C/C++, Solidity, Rust, JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ninjadev322&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
