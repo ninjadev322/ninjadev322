@@ -1,6 +1,6 @@
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Vue.js, Nuxt.js
+- 🔭 <b>Frontend</b> : React.js, Next.js, Vue.js, Nuxt.js, Angluar
 - 🔥 <b>BlockChain</b> : Solidity, OpenZeppelin, Web3.js, Ether.js, Ethereum, Binance Smart Chain, NFT, DEX, CEX, Defi
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Ruby on Rails
